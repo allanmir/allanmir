@@ -1,4 +1,4 @@
-### Oi! Eu sou o Allan 👋😄
+### Oi! Eu sou o Allan Miranda 👋😄
 
 <div>
   <a href="https://github.com/allanmir">
