@@ -1,5 +1,4 @@
 ### Oi! Eu sou o Allan Miranda 👋😄
-
 <div>
   <a href="https://github.com/allanmir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanmir&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -35,7 +34,7 @@
   <a href="https://www.facebook.com/alnm.m" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  	<a href = "mailto:allan-jau@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/allan-jau" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  
+ 
  
   ![Snake animation](https://github.com/allanmir/allanmir/blob/output/github-contribution-grid-snake.svg)
  
