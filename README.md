@@ -18,7 +18,7 @@
   
   ##
   
-  ### Programas com qual já trabalho 🚀
+  ### Programas que já uso 🚀
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
