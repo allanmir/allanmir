@@ -14,8 +14,7 @@
   <img align="center" alt="Allan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Allan-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Allan-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Allan-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
-  <img align="center" alt="Allan-UG" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg">
+  <img align="center" alt="Allan-UG" height="30" width="40" src="https://www.logo.wine/a/logo/Unreal_Engine/Unreal_Engine-Logo.wine.svg">
 </div>
   
   ##
